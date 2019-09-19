@@ -1,5 +1,5 @@
 {
-    "name": "lucasromanojf/laravel5-pdf",
+    "name": "bboss-ltd/pdflib,
     "description": "Provides the HTML2PDF functionality using the wkhtmltopdf library (Laravel 5)",
     "keywords": ["pdf", "wkhtmltopdf", "laravel", "laravel5"],
     "license": "MIT",
